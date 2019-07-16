@@ -11,6 +11,9 @@ function iloveyougrandma(string) {
   return string.iloveyou,too
 }
 
+function iloveyougrandma(string) {
+  console.log('iloveyougrandma')
+}
 
 function logShout(string) {
   console.log('HELLO') 
