@@ -7,6 +7,10 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
+function Iloveyougrandma(string) {
+  return string.iloveyou,too
+}
+
 function love(string) {
   return string.toMixedCase
 }
