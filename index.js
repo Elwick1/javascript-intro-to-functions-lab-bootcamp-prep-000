@@ -7,6 +7,10 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
+function love(string) {
+  return string.toMixedCase
+}
+
 function logShout(string) {
   console.log('HELLO') 
 }
