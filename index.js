@@ -21,6 +21,7 @@ function sayHiToGrandma(string) {
  	} else if (string.toUpperCase() === string) {
       
     }
+    return 
 }
 
 describe('sayHiToGrandma(string)', function() {
