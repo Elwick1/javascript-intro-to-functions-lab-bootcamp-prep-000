@@ -11,9 +11,6 @@ function iloveyougrandma(string) {
   return string.iloveyou,too
 }
 
-function love(string) {
-  return string.toMixedCase
-}
 
 function logShout(string) {
   console.log('HELLO') 
